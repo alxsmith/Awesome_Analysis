@@ -10,7 +10,11 @@ output:
 
 **start fresh** - check your global options
 
+**Purpose:**
+
 This is a script to .....
+
+*Updated* November 15,2018
 
 
 ### Naming conventions:
@@ -26,25 +30,6 @@ knitr::opts_chunk$set(echo = FALSE)
 library(tidyverse)
 
 
-# Side note----
-
-pkgs = c("tidyverse", "plotly" )
-
-loadPackages = function(pkgs){
-
-  temp.packages = function(a){
-      if(!require(a, character.only = TRUE)){
-        install.packages(a)
-        library(a, character.only = TRUE)
-      }
-    }
-
-  lapply(pkgs, load.packages)
-
-}
-
-
-sapply(list.files(pattern="[.]R$", path="./Functions", full.names=TRUE), source)
 
 
 ```
@@ -57,13 +42,15 @@ sapply(list.files(pattern="[.]R$", path="./Functions", full.names=TRUE), source)
  - watch out for things like white spaces and factors
  - check data class
  
- **bold** *italics* 
+This is **bold** and this is *italics* . 
+
 ```{r load_data}
+
 irisRaw <- read.csv("data_raw/iris_dataset.csv")
 
 ```
   
-```{r}
+```{r review_data}
 summary(irisRaw)
 
 head(irisRaw)
@@ -73,19 +60,26 @@ head(irisRaw)
 ### Clean your data
 
 ```{r filter_setosa}
+
 irisClean <- irisRaw %>%
   filter(Species == "setosa")
 ```
  
  
  ### Simple graph
-```{r}
+ 
+ Petal length vs petal width
+ 
+```{r plot}
 
+ggplot(irisClean, aes())
 ```
 
 ###Exporting your graph
-```{r}
 
+```{r save}
+
+ggsave()
 ```
  
  
