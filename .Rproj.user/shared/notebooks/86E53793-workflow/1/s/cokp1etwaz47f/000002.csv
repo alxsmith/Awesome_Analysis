@@ -1,5 +1,0 @@
-"0","irisClean <- irisraw %>%
-  filter(Species == ""setosa"")
-"
-"2","Error in eval(lhs, parent, parent) : object 'irisraw' not found
-"

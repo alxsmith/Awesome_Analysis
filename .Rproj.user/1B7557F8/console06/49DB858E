@@ -1,28 +1,0 @@
-[0m[0K]0;:/c/Users/Alexandra Smith/Desktop/Awesome_Analysis[?25l
-[0;32mAlexandra Smith@LAPTOP-T8SCONHC [0;35m [0;33m~/De[0Ks
-ktop/Awesome_Analysis[0m[0K
-]0;:/c/Users/Alexandra Smith/Documents/Workflow_in_R/Awesome_Analysis[?25l
-[0;32mAlexandra Smith@LAPTOP-T8SCONHC [0;35m [0;33m~/Documents/Workflow_in_R/Awesome_Analysis[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git -[0K[?25h[9G[8G[?25l$ git -i[0K[?25hn[0Kt[0K[?25l$ git -in[0K[?25h[?25l$ git -i[0K[?25h[?25l$ git -[0K[?25h[?25l$ git[0K[7G[?25h[6G[7G[?25l$ git i[0K[7G[?25h[8G[?25l$ git in[0K[?25hi[0Kt[0K[?25l
-[0K[?25hInitialized empty Git repository in C:/Users/Alexandra Smith/Documents/Workflow_in_R/Awesome_Analysis/.git/[0K[?25l
-[0K[?25h[?25l
-[0;32mAlexandra Smith@LAPTOP-T8SCONHC [0;35m [0;33m~/Documents/Workflow_in_R/Awesome_Analysis[0m[0K[33G[?25h[?25l[0;32mAlexandra Smith@LAPTOP-T8SCONHC [0;35m [0;33m~/Documents/Workflow_in_R/Awesome_Analysis[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-[0K
-No commits yet[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rhistory[0m[0K
-        [0;31m.Rproj.user/[0m[0K
-        [0;31mAwesome_Analysis.Rproj[0m[0K
-        [0;31mdata_raw/[0m[0K
-        [0;31mworkflow.Rmd[0m[0K
-        [0;31mworkflow.html[0m[0K
-[0K
-nothing added to commit but untracked files present (use "git add" to track)[0K
-[0K[?25h[?25l
-[0;32mAlexandra Smith@LAPTOP-T8SCONHC [0;35m [0;33m~/Documents/Workflow_in_R/Awesome_Analysis[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K
