@@ -14,7 +14,9 @@ output:
 
 This is a script to .....
 
-*Updated* November 15,2018
+*Created*: November 15,2018
+
+*Updated*: November 16, 2018
 
 
 ### Naming conventions:
